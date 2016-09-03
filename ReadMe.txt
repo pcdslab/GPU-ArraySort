@@ -4,7 +4,7 @@ moving the excessively used data in the on-chip shared memory while keeping
 the remaining in global memory. It is effectively an in-place algorithm. 
 Compilation information for this algorithm is provided in the source code file.
 
-If you use GPU-ArraySort, please site our work using :
+If you use GPU-ArraySort, please cite our work using :
 
 Bibtex:
 
